@@ -340,6 +340,16 @@
       ],
       "contactEmail": "ecncag@gmail.com",
       "description": "The Eaton Canyon Nature Center Associates (ECNCA) is a chapter of the Nature Center Associates (NCA), a non-profit 501(c)(3) corporation and support group of the natural area park system of Los Angeles County. Founded for educational and scientific purposes, its primary mission is to develop in children and adults an appreciation of the natural world and to preserve Eaton Canyon as a natural area for future generations."
+    },
+    {
+      "id": "c0bbaf30-3005-11ef-b3d7-6592e75e96d1",
+      "name": "San Gabriel Mts. Heritage",
+      "contactName": "Marian Coensgen",
+      "contactEmail": "info@sgmha.org",
+      "photo": "/static/img/baldy-vis-grounds-002.jpg",
+      "website": "www.sgmha.org",
+      "description": "San Gabriel Mts. Heritage works in three primary arenas. We staff the Mt. Baldy Visitor Center, a Forest Service facility in Mt. Baldy Village, providing information to the public when visiting the local mountains. We offer an exciting environmental education program for schools and community groups at two forest facilities - the Mt. Baldy Visitor Center and San Gabriel Canyon Education Center, above Azusa. We also assist with the maintenance and upkeep of these facilities. Volunteers are welcome to join our fun, lively group and have the freedom to select their areas of interest.",
+      "slug": "sgmha"
     }
   ]
 }
